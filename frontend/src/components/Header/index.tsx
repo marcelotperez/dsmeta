@@ -1,5 +1,5 @@
-import logo from '../../assets/img/dsmeta.svg'
-import './styles.css'
+import logo from '../../assets/img/dsmeta.svg';
+import './styles.css';
 function Header() {
     return (
         <>
